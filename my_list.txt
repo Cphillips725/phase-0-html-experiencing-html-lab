@@ -1,0 +1,13 @@
+<h1>Most Influential MCs</h1>
+<p>Some of my favorite Old School MCs</p>
+<ul>
+<li>"KRS ONE"</li>
+<li>"LL COOL J"</li>
+<li>"RUN DMC"</li>
+<li>"KURTIS BLOW"</li>
+<li>"SUGAR HILL GANG"</li>
+<li>"KOOL MOE DEE"</li>
+<li>"TRIBE CALLED QUEST"</li>
+<li>"NWA"</li>
+</ul>
+
